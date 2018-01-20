@@ -12,5 +12,7 @@
   </head>
   <body>
   hola
+  <p>hola</p>
+  <p>peru</p>
   </body>
 </html>
